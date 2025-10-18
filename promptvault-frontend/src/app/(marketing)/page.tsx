@@ -3,7 +3,7 @@
 
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { Hero } from '@/components/landing/Hero';
+import { Hero } from '@/components/Landing/Hero'; // <-- Corrected capitalization
 
 export default function LandingPage() {
   // Animation variants
